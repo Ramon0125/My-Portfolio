@@ -354,7 +354,7 @@ hr {
 }
 
 .sidebar .sidebar-header .sidebar-avatar {
-  border: 5px solid #484848;
+  border: 5px solid blue;
   border-radius: 50%;
   margin-bottom: 16px;
   width: 110px;
