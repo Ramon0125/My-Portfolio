@@ -114,7 +114,7 @@ hr {
 /* Section, title & description styles */
 .single-section {
   background-color: #fff;
-  padding: 85px 40px;
+  padding: 78px 40px;
 }
 
 .single-section.alt-bg {
@@ -354,7 +354,7 @@ hr {
 }
 
 .sidebar .sidebar-header .sidebar-avatar {
-  border: 5px solid blue;
+  border: 5px solid #007bff;
   border-radius: 50%;
   margin-bottom: 16px;
   width: 110px;
@@ -1505,4 +1505,37 @@ hr {
   .footer-area .mini-footer .copyright-notice {
     font-size: 13px;
   }
+}
+
+.logobox
+{
+  margin-bottom: 9px;
+  height: 77px;
+  margin-top: -14px;
+  width: 106px;
+
+}
+
+.logobox1
+{
+  margin-bottom: 8px;
+  height: 82px;
+  margin-top: -18px;
+  width: 84px;
+}
+
+.logobox2
+{
+  margin-bottom: 12px;
+  height: 73px;
+  margin-top: -12px;
+  width: 70px;    
+}
+
+.logobox3
+{
+  margin-bottom: -6px;
+  height: 108px;
+  margin-top: -29px;
+  width: 106px;
 }
